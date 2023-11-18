@@ -64,6 +64,7 @@ class DQN(nn.Module):
         x = self.layers[-1](x)
         return x
 
+
 def greedy_action(dqn:DQN, state:torch.Tensor)->int:
     """Select action according to a given DQN
     
