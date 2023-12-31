@@ -1,3 +1,5 @@
+# Hyperparameter Tuning and Analysis of a DQN variant in the CartPole Environment
+
 ## Project Description
 This project explores the implementation and optimization of DQNs in a simulated environment, specifically targeting the 'CartPole-v1' environment from OpenAI's gym.
 
